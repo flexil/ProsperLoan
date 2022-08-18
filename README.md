@@ -14,4 +14,3 @@ In wrangling the dataframe, I found that there was 1364086 missing and some feat
 ## Key Insights for Presentation
 
 In my slide deck, I am going to focus on the correlation of the Original Loan Amount, ProsperRating on the BorrowerAPR. Besides, I explore how the BorrowerAPR may affect the loan status.
-
